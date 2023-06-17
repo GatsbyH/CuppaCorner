@@ -1,0 +1,36 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "remark": null,
+      "id": 1,
+      "tipTitle": "关于CuppaCorner",
+      "tipContent": "\"Cuppa Corner\"是一个英国俚语，可以被理解为“小角落”，通常指一个小而舒适的地方，可以喝茶或咖啡，闲聊或放松。"
+    },
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "remark": null,
+      "id": 2,
+      "tipTitle": "关于作者",
+      "tipContent": "带专人，喜欢咖啡日料音乐剧，喜欢写代码，主攻CV方向（Ctrl C, Ctrl V）"
+    },
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "remark": null,
+      "id": 3,
+      "tipTitle": "赞助作者",
+      "tipContent": "给作者点个star吧，<a href=\"https://github.com/GatsbyH?tab=repositories\"><font color=\"#800080\">点击此处支持我吧！</font></a>"
+    }
+  ]
+}
